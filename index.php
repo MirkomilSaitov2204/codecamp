@@ -7,4 +7,6 @@
 //include "prototypePattern/index.php";
 //include "singilton/index.php";
 //include "FacadePattern/index.php";
-include "AdapterPattern/index.php";
+//include "AdapterPattern/index.php";
+//include "DRYPrinciple/index.php";
+include "Solid/dependencyInversion.php";
